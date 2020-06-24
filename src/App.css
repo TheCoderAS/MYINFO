@@ -1,0 +1,109 @@
+.body{
+  background-image: url('cracker.gif');
+}
+#jumbotron{
+  padding-top: 50px;
+  padding-bottom: 20px;
+  margin-bottom: 0px;
+  margin-top: 50px;
+  background-color:black;
+  opacity: .85;
+  color: antiquewhite;
+}
+.contain{
+  padding-left: 5%;
+  padding-right: 5%;
+}
+#footer{
+  background-color:#292b2c;
+  padding-top: 1%;
+}
+.copyright{
+  padding: 20px;
+  color:azure;
+}
+.logheader{
+  background-color:#292b2c;
+  padding:10px 5px 10px 5px;
+  opacity: .85;
+  color: white;
+}
+.docs{
+  padding: 5%;
+  color: azure;
+  background-color: black;
+  opacity: 0.85;
+  font: outline;
+  font-weight: 600;
+  font-size: 18px;
+  text-align: center;
+}
+.list-unstyled{
+  color: floralwhite;
+}
+.list{
+  margin-top: 1.5%;
+}
+.contact{
+  padding: 1%;
+  text-align: center;
+  background-color:black;
+  opacity: 0.85;
+  border-top: 1.5px solid #292b2c;
+  color: red;
+}
+.privacy{
+  background-color:black ;
+  color: azure;
+  opacity: .85;
+  border-top: 2px solid #292b2c;
+  padding-top: 2%;
+  padding-bottom: 1%;
+}
+#access{
+  color: azure;
+  font-weight: 600;
+}
+#encrypt{
+  color: azure;
+  font-size: 19px;
+}
+#cardheader{
+  border-top: 1px solid magenta;
+  background-color:#292b2c;
+  color: floralwhite;
+  text-align: center;
+  opacity: .8;
+}
+#cardbody{
+  color: floralwhite;
+  background-color: black;
+  border-top: 1px solid magenta;
+}
+.top{
+  border-top: 2px solid black;
+  padding-top: 2px;
+  border-top-right-radius: 20px;
+}
+#modal{
+  top: 20%;
+  right: 1.7%;
+}
+#modalwait{
+  text-align: center;
+  top: 20%;
+  right: 1.7%;
+  opacity: .85;
+
+}
+#modalwaitbody{
+  background-color: black;
+  color: white;
+}
+#trans{
+  margin-top: 1%;
+  opacity: .85;
+}
+#othercard{
+  margin-bottom: 1.5%;
+}
